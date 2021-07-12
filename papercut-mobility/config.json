@@ -1,0 +1,15 @@
+{
+    "name": "PaperCut Mobility Print",
+    "version": "1",
+    "slug": "papercut_mobility",
+    "description": "Add-on to run PaperCut Mobility Print Server",
+    "arch": [
+        "amd64",
+        "aarch64",
+        "armv7"
+    ],
+    "startup": "application",
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+}
